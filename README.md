@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Giovana 👋
 
 <div>
   <img width="49%" height="200em" src="https://github-readme-stats-beryl-pi-91.vercel.app/api?username=giovanatiburtino&show_icons=true&theme=jolly" />
