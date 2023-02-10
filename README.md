@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**giovanatiburtino/giovanatiburtino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![Anurag's GitHub stats](https://github-readme-stats-beryl-pi-91.vercel.app/api?username=giovanatiburtino&show_icons=true&theme=jolly)[![Top Langs](https://github-readme-stats-beryl-pi-91.vercel.app/api/top-langs/?username=giovanatiburtino&layout=compact&theme=jolly)](https://github.com/giovanatiburtino/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats-beryl-pi-91.vercel.app/api/pin/?username=giovanatiburtino&repo=github-readme-stats&theme=jolly)](https://github.com/giovanatiburtino/github-readme-stats)
