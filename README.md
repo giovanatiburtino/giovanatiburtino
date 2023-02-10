@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div>
   <img width="49%" height="195px" src="https://github-readme-stats-beryl-pi-91.vercel.app/api?username=giovanatiburtino&show_icons=true&theme=jolly" />
   <img width="49%" height="195px" src="https://github-readme-stats-beryl-pi-91.vercel.app/api/top-langs/?username=giovanatiburtino&layout=compact&theme=jolly" />
 </div>
