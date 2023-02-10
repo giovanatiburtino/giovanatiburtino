@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<div style="display:flex">
-<a href="https://github.com/giovanatiburtino/github-readme-stats">
-  <img src="https://github-readme-stats-beryl-pi-91.vercel.app/api?username=giovanatiburtino&show_icons=true&theme=jolly" />
-  <img src="https://github-readme-stats-beryl-pi-91.vercel.app/api/top-langs/?username=giovanatiburtino&layout=compact&theme=jolly" />
-</a>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-beryl-pi-91.vercel.app/api?username=giovanatiburtino&show_icons=true&theme=jolly" />
+  <img width="49%" height="195px" src="https://github-readme-stats-beryl-pi-91.vercel.app/api/top-langs/?username=giovanatiburtino&layout=compact&theme=jolly" />
 </div>
 
 <div style="display: inline_block"><br>
