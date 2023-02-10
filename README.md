@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/giovanatiburtino/github-readme-stats">
-  <img height="200em" src="https://github-readme-stats-beryl-pi-91.vercel.app/api?username=giovanatiburtino&show_icons=true&theme=jolly" />
-  <img height="200em" src="https://github-readme-stats-beryl-pi-91.vercel.app/api/top-langs/?username=giovanatiburtino&layout=compact&theme=jolly" />
+  <img height="180em" src="https://github-readme-stats-beryl-pi-91.vercel.app/api?username=giovanatiburtino&show_icons=true&theme=jolly" />
+  <img height="180em" src="https://github-readme-stats-beryl-pi-91.vercel.app/api/top-langs/?username=giovanatiburtino&layout=compact&theme=jolly" />
 </a>
 </div>
 
